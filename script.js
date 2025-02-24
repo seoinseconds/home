@@ -13,10 +13,10 @@ form.addEventListener("submit", (e) => {
   const email = document.getElementById("email").value;
   const number = document.getElementById("mobileNumber").value;
   const username = document.getElementById("username").value;
-  if (!userNameRegex.test(username)) {
-    popUp("👾 Give Appropriate UserName ", "red");
-    return;
-  }
+  // if (!userNameRegex.test(username)) {
+  //   popUp("👾 Give Appropriate UserName ", "red");
+  //   return;
+  // }
   if (!emailIdRegex.test(email)) {
     popUp("👾 Give Appropriate Email ID ", "red");
     return;

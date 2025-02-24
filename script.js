@@ -61,7 +61,6 @@ function popUp(message, color = "black") {
   popupMessage.style.color = color;
   setTimeout(() => {
     popupMessage.style.display = "none";
-    location.reload();
   }, 3000);
 }
 

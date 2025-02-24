@@ -112,6 +112,8 @@ nav .nav-buttons button{
 .email-request-button{
     background-color: #FD7E14;
     color: white;
+    font-size:1.4rem;
+    padding:1rem 1.5rem;
 }
 
 .email-request-button:hover{

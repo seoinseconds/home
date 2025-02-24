@@ -22,10 +22,6 @@
 
 }
 
-.cta-button{
-    font-size:var(--cta-button-size);
-    padding:2rem 3rem;
-}
 
 nav{
     
@@ -122,3 +118,8 @@ nav .nav-buttons button{
     background-color: #E65100;
     color: white;
 }
+.cta-button{
+    font-size:var(--cta-button-size);
+    padding:2rem 3rem;
+}
+

@@ -403,7 +403,7 @@ a{
 
 @media (max-width:850px) {
     .about-us-container{
-        flex-direction: row;
+        flex-direction: column;
     }
     .links{
         flex-direction: row;

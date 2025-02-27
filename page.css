@@ -65,9 +65,9 @@ body{
 }
 
 .lnd-page-heading{
-    font-size: 4rem;
+    font-weight: bolder;
+    font-size: 5rem;
     margin-bottom: 5rem;
-    
 }
 
 .landing-page-content{
